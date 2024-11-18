@@ -1,0 +1,8 @@
+docs/
+
+.env
+
+input/
+output/
+
+node_modules/
